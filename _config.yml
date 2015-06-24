@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: /siliconvalley
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: siliconvalley
 github_org: maptime
 maptime:
-  chapter: Meetup name
-  twitter: YourName
+  chapter: MaptimeSV
+  twitter: MaptimeSV
   #disqus: YOUR DISQUS USERNAME
